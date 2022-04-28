@@ -1,6 +1,6 @@
-#Static website on ec2(AWS)
+# Static website on ec2(AWS)
 
-#Launch an EC2 instance
+##Launch an EC2 instance
 
 1. Sign in to AWS console and open the ec2 dashboard.
 
@@ -32,7 +32,7 @@ Download Key Pair, and then save the key pair file on your local machine.
 9. To launch your EC2 instance, choose Launch Instances.And you can check the status
 of in ec2 dashboard.
 
-##To connect to your EC2 instance with the help of putty
+## To connect to your EC2 instance with the help of putty
 
 1 . Open puttygen and load the key you downloaded during the launchin of
 ec2 instance and generate private key and save private key to local machine.
@@ -64,7 +64,7 @@ httpd.service
 Now you can copy your instance public ipv4 address and paste in the
 browser and your website launched successfully on the ec2 instances.
 
-##To create the AMI or snapshot of your instance.
+## To create the AMI or snapshot of your instance.
 
 1. Choose your instance for which you want to create and AMI(Amazon
 Machine images).Later on you can launch the instance of same
