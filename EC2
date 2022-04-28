@@ -1,6 +1,6 @@
 # Static website on ec2(AWS)
 
-##Launch an EC2 instance
+## Launch an EC2 instance
 
 1. Sign in to AWS console and open the ec2 dashboard.
 
